@@ -1,0 +1,33 @@
+/* can use just class */
+
+.container .text {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  background-color: hsl(59, 100%, 50%);
+}
+
+/* can use just type selector */
+
+/* div p {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  background-color: hsl(59, 100%, 50%);
+} */
+
+/* can use combination of type and descendant selector */
+
+/* div .text {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  background-color: hsl(59, 100%, 50%);
+} */
+
+/* .container p {
+  font-size: 20px;
+  text-align: center;
+  color: rgb(255, 0, 0);
+  background-color: hsl(59, 100%, 50%);
+} */
